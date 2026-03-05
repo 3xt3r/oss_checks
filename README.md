@@ -1,1 +1,2 @@
-# oss_checks
+# python3 pipeline.py /dir/ --apply
+

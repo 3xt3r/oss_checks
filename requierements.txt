@@ -1,0 +1,9 @@
+pandas
+openpyxl
+beautifulsoup4
+lxml
+requests
+py7zr
+pyyaml
+xlsxwriter
+rarfile
